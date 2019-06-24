@@ -1,3 +1,3 @@
-New-Item -Path c:\temp\dev -ItemType Directory
-$path = test-path c:\temp\dev
+New-Item -Path c:\temp\test -ItemType Directory
+$path = test-path c:\temp\test
 $path
